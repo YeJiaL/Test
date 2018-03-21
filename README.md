@@ -7,6 +7,8 @@
 
 ![image](https://github.com/YeJiaL/Test/blob/master/武汉地铁线路图.jpg){:height="50%" width="50%"}
 
+<img src="https://github.com/YeJiaL/Test/blob/master/武汉地铁线路图.jpg" width="150" height="200" alt="图片描述文字"/>
+
 ![image](https://github.com/YeJiaL/Test/raw/master/Image/1.jpg)
 
 ![image](https://github.com/YeJiaL/Test/blob/master/Image/1.jpg)
