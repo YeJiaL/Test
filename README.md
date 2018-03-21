@@ -3,7 +3,11 @@
 
 这是测试架的内容
 1111
+![image](https://github.com/YeJiaL/Test/raw/master/Image/1.jpg）
+
 ![image](https://github.com/YeJiaL/Test/blob/master/Image/1.jpg）
+
+
 
 2222
 ![image](https://github.com/YeJiaL/Test/blob/master/Image/2.jpg）
